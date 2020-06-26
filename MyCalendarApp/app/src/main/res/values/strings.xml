@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCalendarApp</string>
+
+    <string name="btn_name">Notlarım</string>
+    <string name="btn_add">Not Ekle</string>
+    <string name="btn_saved">Kaydet</string>
+    <string name="btn_close">Kapat</string>
+</resources>
